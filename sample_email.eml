@@ -1,0 +1,23 @@
+Return-Path: <support@amaz0n-security.com>
+Received: from smtp5.hostingprovider (smtp5.hostingprovider [198.51.100.24])
+	by mx.example.com (Postfix) with ESMTPS id 123ABC
+	for <user@example.com>; Mon, 15 Sep 2025 12:34:56 +0530 (IST)
+Authentication-Results: mx.example.com; spf=fail (mx.example.com: domain of support@amaz0n-security.com does not designate 198.51.100.24 as permitted sender) smtp.mailfrom=support@amaz0n-security.com; dkim=none; dmarc=fail
+From: "Amazon Support" <support@amaz0n.com>
+Reply-To: support@amaz0n-security.com
+To: user@example.com
+Subject: Urgent: Account Suspension Notice — Verify Now
+Date: Mon, 15 Sep 2025 12:34:56 +0530
+Message-ID: <CA+12345abcd@example.org>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We detected suspicious activity on your Amazon account and temporarily suspended access. To avoid permanent suspension, please verify your account within 24 hours.</p>
+<p><a href="http://secure-amazon.verify-123.com/login" target="_blank">https://amazon.com/verify</a></p>
+<p>Failure to verify will result in permanent account suspension.</p>
+<p>Sincerely,<br>Amazon Support Team</p>
+</body>
+</html>

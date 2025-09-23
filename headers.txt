@@ -1,0 +1,15 @@
+Return-Path: <support@amaz0n-security.com>
+Received: from smtp5.hostingprovider (smtp5.hostingprovider [198.51.100.24])
+	by mx.example.com (Postfix) with ESMTPS id 123ABC
+	for <user@example.com>; Mon, 15 Sep 2025 12:34:56 +0530 (IST)
+Authentication-Results: mx.example.com; spf=fail (mx.example.com: domain of support@amaz0n-security.com does not designate 198.51.100.24 as permitted sender) smtp.mailfrom=support@amaz0n-security.com; dkim=none; dmarc=fail
+From: "Amazon Support" <support@amaz0n.com>
+Reply-To: support@amaz0n-security.com
+To: user@example.com
+Subject: Urgent: Account Suspension Notice — Verify Now
+Date: Mon, 15 Sep 2025 12:34:56 +0530
+Message-ID: <CA+12345abcd@example.org>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+(Headers end here; body begins after a blank line.)
